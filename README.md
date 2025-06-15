@@ -13,7 +13,7 @@ Como utiliza-la: Insira os dados da pessoa física ou jurídica.
 Como utiliza-la: Informe os dados bancarios e o montante movimentado em cada banco vinculado ao CPF da pessoa.
 
 ### Terceira Planilha: NOTAS.
-Como utiliza-la: Informe todas as movimentações feitas, especificando mês e origem (Holerite,CNPJ e Freelance)
+Como utiliza-la: Informe todas as movimentações feitas, especificando mês e origem (Holerite,CNPJ e Freelance).
 
 ## ℹ️Observações
 
