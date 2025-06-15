@@ -17,8 +17,8 @@ Como utiliza-la: Informe todas as movimentações feitas, especificando mês e o
 
 ## ℹ️Observações
 
--As informações são exemplos e não devem ser levadas como base para declarações reais.
+- As informações são exemplos e não devem ser levadas como base para declarações reais.
 
--Calculadora de Imposto de Renda criada ao acompanhar as videoaulas do Tutor Felipe Aguiar, que ministra o bootcamp da DIO em parceria com o grupo santander.
+- Calculadora de Imposto de Renda criada ao acompanhar as videoaulas do Tutor Felipe Aguiar, que ministra o bootcamp da DIO em parceria com o grupo santander.
 
--Este Simulador de Investimentos não tem como objetivo lucro, mas sim me habituar a formulas, funcionalidades e ferramentas presentes no EXCEL.
+- Este Simulador de Investimentos não tem como objetivo lucro, mas sim me habituar a formulas, funcionalidades e ferramentas presentes no EXCEL.
